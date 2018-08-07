@@ -5,6 +5,6 @@ Please consider crediting me on pages where this will appear
 
 
 Code by Steven Andrew Smith (IGSteven)
-         Streamers Connected
+Streamers Connected
 
-   http://linkedin.com/in/igsteven
+http://linkedin.com/in/igsteven
