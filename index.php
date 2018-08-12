@@ -7,7 +7,7 @@ Code by Steven Andrew Smith (IGSteven)
    https://linkedin.com/in/igsteven
 ========================================
 */
-$livestreams = json_decode(file_get_contents("https://ashley.streamersconnected.tv/data/streamlist.json"), true);
+$livestreams = json_decode(file_get_contents("streams.json"), true);
 $livestreams = array_slice($livestreams, 0, 32);
 ?>
 <h1>Live Streams</h1><hr>
